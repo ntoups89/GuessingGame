@@ -36,6 +36,4 @@ def number_guessing_game():
             print(f"Congratulations! You guessed the number {secert_number} correctly.")
             print(f"It took you {attempts} attempts.")
             break
-if __name__ == "__main__":
-    number_guessing_game()
 
